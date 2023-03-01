@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">14.Tablayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="chat_fragment">Chat Fragment</string>
+    <string name="setting_fragment">Setting Fragment</string>
+</resources>
